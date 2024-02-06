@@ -26,5 +26,4 @@ int main(){
     //Link Third
     third->data=30;
     third->next=NULL;
-    LinklistTraversal(head);
 }
